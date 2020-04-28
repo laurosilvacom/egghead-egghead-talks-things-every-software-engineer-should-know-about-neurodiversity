@@ -21,7 +21,7 @@ Nick: [1:22] Great. Thank you so much. Everybody hear me, see my screen OK? I'll
 
 Who am I? Before I get too far into this, why should you listen to me?
 
-[2:25] I'm an autistic and ADHD software engineer at Mode Analytics in San Francisco, though I live in Crown Heights, New York. My name is [Nick inaudible ](https://twitter.com/mykola) on Twitter. I am constantly there. You can come ask me questions, yell at me, or whatever you feel like doing after this talk there.
+[2:25] I'm an autistic and ADHD software engineer at Mode Analytics in San Francisco, though I live in Crown Heights, New York. My name is [Nick](https://twitter.com/mykola) on Twitter. I am constantly there. You can come ask me questions, yell at me, or whatever you feel like doing after this talk there.
 
 [2:40] I'm somebody who's been a journey towards mental health for a really long time that I started taking seriously a couple of years ago. I'm not a doctor or medical professional, but I've had a lot of therapy.
 
@@ -129,11 +129,11 @@ Who am I? Before I get too far into this, why should you listen to me?
 
 [13:57] That's it for diagnosed conditions that I want to mention. There are others. Again, it's not exhaustive. More interestingly to me at least, I want to talk about neurodivergent traits. We can talk about ADHD but ADHD is just a term for people who have a set of traits that happen or occur together. Then we circle that and we call that ADHD.
 
-[14:20] A lot of the work in neurodiversity now seems to be suggesting that grouping traits together and circling that and calling it a thing isn't the best way to reason about this. Insurance companies really love it. This is something to keep in mind, is that where these inaudible come from and who creates them is largely driven by agendas at every level. It's worth being aware of.
+[14:20] A lot of the work in neurodiversity now seems to be suggesting that grouping traits together and circling that and calling it a thing isn't the best way to reason about this. Insurance companies really love it. This is something to keep in mind, is that where these taxonomies come from and who creates them is largely driven by agendas at every level. It's worth being aware of.
 
 [14:45] We're running a little behind here so I'm going to try to rush through some of these. If you've got ADHD or time blindness, you don't experience subjective time the same way. One hour could feel like two minutes, another hour could feel like four hours. You can't trust yourself to know how much time has passed.
 
-[15:03] That's fine. It's because you're inaudible in your life and you're spending your cycles on other things but it means that it matters to you to be on time to places, wherever, you need to set alarms, stuff like that.
+[15:03] That's fine. It's because you're living your life and you're spending your cycles on other things but it means that it matters to you to be on time to places, wherever, you need to set alarms, stuff like that.
 
 [15:16] Face blindness or prosopagnosia. Not everybody can easily recognize other people. I like to joke that I watch "Dead Poet's Society," the Robbie William's movie. I have no idea what was going on because it's like six fat boys wearing the same uniform with same haircut, the same tie, and the same smirk.
 
@@ -229,9 +229,9 @@ Will: [25:43] Cool, thank you a lot, Nick. I learned a lot. I feel like I have t
 
 [Nick]: 26:17 That's a good question. I wish I knew. Dyscalculia and dyslexia are not things that I'm personally familiar with but what I do recommend is that you go on Twitter and you find other people who are talking about these things. I would not be doing as OK as I am if I hadn't found other autistic and ADHD people online.
 
-[26:36] I've gotten much more help from other people like me than I have from doctors or therapists. The biggest takeaway is that there's nothing wrong with you. It's inaudible . It's cool. You're great.
+[26:36] I've gotten much more help from other people like me than I have from doctors or therapists. The biggest takeaway is that there's nothing wrong with you. It's how tour brain works . It's cool. You're great.
 
-[Wil]l: 26:48 Thank you. Matthew asks, do you feel like time blindness is true for most people? Humans seem to be bad at estimating timeframes or inaudible most people.
+[Wil]l: 26:48 Thank you. Matthew asks, do you feel like time blindness is true for most people? Humans seem to be bad at estimating timeframes.
 
 [Nick]: 27:01 Yes. All of these traits are things that everybody's going to happen to some extent or another. What makes somebody neurodivergent is the extent to which these traits impact your life.
 
