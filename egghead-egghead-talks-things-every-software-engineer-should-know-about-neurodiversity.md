@@ -1,94 +1,119 @@
-Will: [0:00] Hi, my name is Will. I'm the community engineer with egghead.io. This is our third series of our Egghead talks, Remote Conference Talks. Today, we have a double-header. We have two guests.
+Will: [0:00] Hi, my name is [Will](https://twitter.com/willjohnsonio). I'm the community engineer with egghead.io. This is our third series of our Egghead talks, Remote Conference Talks. Today, we have a double-header. We have two guests.
 
-[0:12] How it's going to work, Nick is going to give his first talk on everything that software engineers should know about neurodiversity. I'm sure he'll say that better than I will. Then, we'll take some questions from the chat. You have questions, you can ask them in the chat, then I'll ask them at the end of his talk.
+[0:12] How it's going to work, Nick is going to give his first talk on **everything that software engineers should know about neurodiversity.** I'm sure he'll say that better than I will. Then, we'll take some questions from the chat. You have questions, you can ask them in the chat, then I'll ask them at the end of his talk.
 
-[0:30] Then, we have Josh Doody, who'll present salary negotiation for software engineers and then same thing, questions in the chat and then we will respond or I'll ask them at the end so everyone can get their questions asked and it won't be too much going on.
+[0:30] Then, we have [Josh Doody](https://twitter.com/JoshDoody), who'll present salary negotiation for software engineers and then same thing, questions in the chat and then we will respond or I'll ask them at the end so everyone can get their questions asked and it won't be too much going on.
 
 [0:47] I appreciate everyone for coming. Glad you all able to join us. We can still come together in these wild times and be able to connect and learn things from each other. Just like Josh said, I'm glad technology makes this possible.
 
-[1:01] If you do want to discuss this on Twitter, you can use the hash tag #eggheadtalks, and that'll allow anyone here to connect, and we can connect outside, and things going to be good for everyone. Without further ado, I'm going to let Nick take over and share his screen and do his presentation.
+[1:01] If you do want to discuss this on Twitter, you can use the hash tag [#eggheadtalks](https://twitter.com/search?q=%23eggheadtalks&src=typed_query), and that'll allow anyone here to connect, and we can connect outside, and things going to be good for everyone. Without further ado, I'm going to let Nick take over and share his screen and do his presentation.
 
 Nick: [1:22] Great. Thank you so much. Everybody hear me, see my screen OK? I'll give it a second and look out into the audience and ask, but I will assume that things are good unless I hear otherwise.
 
-[1:32] I'm here to talk to you today about things every software engineer should know about neurodiversity. You might be forgiven for assuming that this is going to be a talk about how to write code with neurodivergent people in mind. That's not what this is.
+[1:32] I'm here to talk to you today about **Things Every Software Engineer Should Know About Neurodiversity.** You might be forgiven for assuming that this is going to be a talk about how to write code with neurodivergent people in mind. That's not what this is.
 
-[1:47] This is a talk that I like to give to groups where I know there are a lot of people living with undiagnosed neurodivergent conditions. I myself didn't discover that I was autistic or ADHD until I was in my mid-30s, and it improved my life immeasurably. Since then, one of the things I like to do is give as many people those "ah-ha" moments as I can.
+![Neurodiversity Slide](./images/01-neurodiversity-slide.png)
 
-[2:11] When I say "Things Every Software Engineer Should Know About Neurodiversity," what I really mean to do is ask you, "Are you neurotypical? Are you sure?" A lot of you aren't and don't know it. Who am I? Before I get too far into this, why should you listen to me?
 
-[2:25] I'm an autistic and ADHD software engineer at Mode Analytics in San Francisco, though I live in Crown Heights, New York. My name is Nick inaudible on Twitter. I am constantly there. You can come ask me questions, yell at me, or whatever you feel like doing after this talk there.
+[1:47] This is a talk that I like to give to groups where I know there are a lot of people living with undiagnosed neurodivergent conditions. I myself didn't discover that I was autistic or ADHD until I was in my mid-30s, and it improved my life measurably. Since then, one of the things I like to do is give as many people those _ah-ha_ moments as I can.
+
+[2:11] When I say "Things Every Software Engineer Should Know About Neurodiversity," what I really mean to do is ask you, **"Are you neurotypical? Are you sure?" A lot of you aren't and don't know it.** 
+
+Who am I? Before I get too far into this, why should you listen to me?
+
+[2:25] I'm an autistic and ADHD software engineer at Mode Analytics in San Francisco, though I live in Crown Heights, New York. My name is [Nick inaudible ](https://twitter.com/mykola) on Twitter. I am constantly there. You can come ask me questions, yell at me, or whatever you feel like doing after this talk there.
 
 [2:40] I'm somebody who's been a journey towards mental health for a really long time that I started taking seriously a couple of years ago. I'm not a doctor or medical professional, but I've had a lot of therapy.
 
-[2:50] I have learned a lot about all of this stuff. I'm eager to share it with you. Take all of this with a grain of salt. Take all of this with the understanding that I can't possibly represent the wide variety of experiences that are out there. I'm going to talk to you today a little bit about my experiences and give you a rough survey of what neurodiversity really means.
+![Intro Mykola Slide](./images/02-slide-mykola.png)
 
-[3:11] When we say the word "neurodiversity," this is meant to be understood as a subset of the biodiversity. Just like there are different ways that people can have bodies and no one body is correct, there are also different ways that people can have brains because there's different ways that brains can be organized.
+[2:50] I have learned a lot about all of this stuff. I'm eager to share it with you. Take all of this with a grain of salt. **Take all of this with the understanding that I can't possibly represent the wide variety of experiences that are out there.** I'm going to talk to you today a little bit about my experiences and give you a rough survey of what neurodiversity really means.
 
-[3:28] It's not necessarily an illness or a disease if somebody's brain's different from a typical brain. Most people's cognition and senses work more or less the same as everyone else's. We call these people neurotypical. Other people have various conditions or experiences which cause their brains to work a little bit differently than everyone else's. We call these people neurodivergent.
+[3:11] When we say the word "neurodiversity," this **is meant to be understood as a subset of the biodiversity**. Just like there are different ways that people can have bodies and no one body is correct, **there are also different ways that people can have brains** because there's different ways that brains can be organized.
 
-[3:51] Neurodiversity is the idea that there are any number of different neurotypes out there and that they're all valid. It's not a disease if you're different. It's just a way of being. It might come with challenges. You don't have to feel bad about it. There's ways that you can thrive.
+[3:28] **It's not necessarily an illness or a disease if somebody's brain's different from a typical brain**. Most people's cognition and senses work more or less the same as everyone else's. We call these people **neurotypical**. Other people have various conditions or experiences which cause their brains to work a little bit differently than everyone else's. We call these people **neurodivergent**.
 
-[4:06] I want to throw this visual in here real quick because I find that this really helps the visual thinkers. If you think of the brain as a mixer for some sound, you can think of a neurotype as the current position of all of these different switches.
+![Biodiversity Slide](./images/03-biodiversity-slide.png)
+
+[3:51] Neurodiversity is the idea that there are any number of different neurotypes out there and that they're all valid. **It's not a disease if you're different. It's just a way of being.** It might come with challenges. You don't have to feel bad about it. There's ways that you can thrive.
+
+[4:06] I want to throw this visual in here real quick because I find that this really helps the visual thinkers. If you think of the brain as a mixer for some sound, you can think of a **neurotype as the current position of all of these different switches**.
+
+![Visual Thinkers Slide](./images/04-visual-thinkers.png)
 
 [4:23] For most people, let's say, these switches down here, these sliders. Some are going to be a little higher. Some are going to be a little lower, but they're all going to be around the center. Maybe one of these represents how bright lights look.
 
-[4:33] Maybe one of these represents how well you can handle your strong emotions. Maybe one of these represents your capacity to read between the lines when people are talking. Some people are way turned up. Some people are way turned down.
+[4:33] Maybe one of these represents how well you can handle your strong emotions. Maybe one of these represents your capacity to read between the lines when people are talking. *Some people are way turned up. Some people are way turned down.*
 
-[4:47] When you have enough of these different traits that you don't have in common with the people around you, your experience of life and reality tends to diverge from there. The more different you are, the more it diverges. That's what we're talking about when we talk about neurodiversity and neurodivergent conditions. Let's learn some words. A lot of this is very much about vocabulary.
+[4:47] When you have enough of these different traits that you don't have in common with the people around you, your experience of life and reality tends to diverge from there. The more different you are, the more it diverges. That's what we're talking about when we talk about neurodiversity and neurodivergent conditions. Let's learn some words. **A lot of this is very much about vocabulary**.
 
-[5:10] One of my most rewarding experiences since I've started doing outreach work in this space is conversation after conversation where I get to see somebody go, "Oh. There's a word for that? I've been struggling with that my whole life." That's the feeling I want to give to as many people as possible.
+[5:10] One of my most rewarding experiences since I've started doing outreach work in this space is conversation after conversation where I get to see somebody go, *"Oh. There's a word for that? I've been struggling with that my whole life."* That's the feeling I want to give to as many people as possible.
 
-[5:26] This talk is going to be a high-level survey of a bunch of concepts. I'm going to throw a bunch of names at you. Most of this is probably going to bounce off of you, but for some of you, some of this is really going to resonate. You're the ones who this talk is most for.
+[5:26] This talk is going to be a high-level survey of a bunch of concepts. I'm going to throw a bunch of names at you. Most of this is probably going to bounce off of you, but for some of you, **some of this is really going to resonate**. You're the ones who this talk is most for.
 
 [5:40] Everyone else, there's so much that you don't know about the experiences of the people around you that it would really stun you, I think. I thank you very much for your interest and for paying attention. Let's look at some words.
 
-[5:54] First, let's talk about some of these medical diagnoses and syndromes that we see thrown around. This is just going to be a subset. This is not going to be an exhaustive talk. None of the lists I show you are exhaustive. That's important to understand as we step through this.
+[5:54] First, let's talk about some of these medical diagnoses and syndromes that we see thrown around. This is just going to be a subset. **This is not going to be an exhaustive talk.** None of the lists I show you are exhaustive. That's important to understand as we step through this.
 
-[6:10] Let's start out by mentioning autism but not actually saying much about it. It's hard to define. If you go on Twitter and ask, "What is autism?" you'll get a hundred answers from a hundred people. They'll be different, and they'll have a lot in common.
+[6:10] Let's start out by mentioning **autism** but not actually saying much about it. It's hard to define. If you go on Twitter and ask, "What is autism?" you'll get a hundred answers from a hundred people. They'll be different, and they'll have a lot in common.
 
-[6:25] What I have found is that it makes a lot more sense to talk about autistic traits and what it means to have specific traits than it does to talk about autism itself as a thing. However, autism is still a thing. It's a thing the medical community names. It's a thing that a lot of us have claimed as an identity. We'll get a little bit later into what exactly autism is.
+![Autism Slide](./images/05-autism-slide.png) 
 
-[6:47] ADHD is one of the worst-named conditions in the history of medicine. We think of it as, "Oh, the kid who can't sit still in English class." Really, this is a nuanced and pervasive difference in the way the brain processes time and attention.
+[6:25] What I have found is that **it makes a lot more sense to talk about autistic traits** and what it means to have specific traits than it does to talk about autism itself as a thing. However, autism is still a thing. It's a thing the medical community names. It's a thing that a lot of us have claimed as an identity. We'll get a little bit later into what exactly autism is.
 
-[7:03] ADHD means that your brain's reward centers are not stimulated by achieving goals. You don't get dopamine for finishing the task in front of you. You get dopamine from satisfying your curiosity. It's the only thing your brain cares about.
+[6:47] **ADHD** is one of the worst-named conditions in the history of medicine. We think of it as, "Oh, the kid who can't sit still in English class." Really, this is a **nuanced and pervasive difference in the way the brain processes time and attention**.
 
-[7:16] Paying attention to things that you're not curious about takes a lot of work, energy, and effort. It's actually really hard. This can also lead to difficulty regulating emotion. We're going to talk about some emotional stuff coming up in a little bit.
+![ADHD Slide](./images/06-adhd-slide.png) 
 
-[7:30] Bipolar disorder. People who have bipolar have wildly fluctuating emotions that can be really difficult to regulate. There are different bipolar profiles. Some people have hypomania, which is this slightly elevated state, where you're focused, attentive, and a little bit manic. You're mostly fine. Maybe you're not paying attention to everything you're supposed to be. Then maybe sometimes you're wildly depressed.
+[7:03] ADHD means that your brain's reward centers are not stimulated by achieving goals. You don't get dopamine for finishing the task in front of you. **You get dopamine from satisfying your curiosity.** It's the only thing your brain cares about.
 
-[7:54] Other people have bipolar where, when they're manic, they're hyper-manic. It is indistinguishable from psychosis. They are seeing things that aren't there. They are talking to people who aren't there. It can be really scary and dangerous.
+[7:16] Paying attention to things that you're not curious about takes a lot of work, energy, and effort. It's actually really hard. **This can also lead to difficulty regulating emotion.** We're going to talk about some emotional stuff coming up in a little bit.
 
-[8:06] It's something that can be medicated, but medication is a trade-off always. There's side effects in everything. This is an experience that a lot of people are dealing with around you that you might not realize.
+[7:30] **Bipolar disorder.** People who have bipolar have wildly fluctuating emotions that can be really difficult to regulate. There are different bipolar profiles. Some people have **hypomania**, which is this slightly elevated state, where you're focused, attentive, and a little bit manic. You're mostly fine. Maybe you're not paying attention to everything you're supposed to be. Then maybe sometimes you're wildly depressed.
 
-[8:17] With things like dyslexia and dyscalculia, I don't mean to collapse or group these things together. There's a bunch of these conditions that happen. If your brain processes information at one speed but your senses provide information at another speed, you get this impedance mismatch.
+[7:54] **Other people have bipolar where, when they're manic,** they're hyper-manic. It is **indistinguishable from psychosis**. They are seeing things that aren't there. They are talking to people who aren't there. It can be really scary and dangerous.
 
-[8:33] Somebody with dyslexia, his brain is processing the words that they're reading so fast that they're actually having thoughts and ideas about what they've read in the space between, say, one word and the next word. It becomes very difficult to slow down enough to pay attention to what you're looking at.
+![Bipolar Disorder Slide](./images/07-bipolar-disorder-slide.png) 
 
-[8:49] Dyscalculia are people who really struggle with processing numbers. This isn't just having a hard time doing math homework. This is when we look at a clock. It takes you a little longer. Maybe you feel some shame around this. There's nothing to be ashamed of. Something I want to call out here. These really get at the heart of what a disability is.
+[8:06] It's something that can be medicated, but medication is a trade-off always. There's side effects in everything. **This is an experience that a lot of people are dealing with around you that you might not realize.**
 
-[9:12] I want you to pay attention to the fact that, without writing, there'd be no such thing as dyslexia. Without math, there'd be no such thing as dyscalculia. These are human technologies that were invented. Now we have disabilities that are named for people's inability to use these technologies.
+[8:17] With things like **dyslexia** and **dyscalculia**, I don't mean to collapse or group these things together. There's a bunch of these conditions that happen. **If your brain processes information at one speed but your senses provide information at another speed**, you get this impedance mismatch.
 
-[9:28] I'm not going to get into the social model of disability versus the medical model of disability much in this talk. If you find that interesting, google the social model of disability. There's a lot there to learn. Sensory processing disorders. If you remember our little mixer board from earlier, I said some people are turned way up. Some people are turned way down on different traits.
+![Dyslexia and Dyscalculia Slide](./images/08-dyslexia-dyscalculia-slide.png) 
 
-[9:50] Sensory processing is really common for this. Some people experience certain senses really, really, really strongly. Some people experience them really weakly. Some people experience some things very strongly and some things very weakly.
+[8:33] Somebody with dyslexia, his brain is **processing the words that they're reading so fast that they're actually having thoughts and ideas about what they've read in the space between**, say, one word and the next word. It becomes very difficult to slow down enough to pay attention to what you're looking at.
+
+[8:49] **Dyscalculia are people who really struggle with processing numbers**. This isn't just having a hard time doing math homework. This is when we look at a clock. It takes you a little longer. Maybe you feel some shame around this. There's nothing to be ashamed of. Something I want to call out here. These really get at the heart of what a disability is.
+
+[9:12] I want you to pay attention to the fact that, without writing, there'd be no such thing as dyslexia. Without math, there'd be no such thing as dyscalculia. These are human technologies that were invented. **Now we have disabilities that are named for people's inability to use these technologies.**
+
+[9:28] I'm not going to get into the social model of disability versus the medical model of disability much in this talk. If you find that interesting, **google the social model of disability**. There's a lot there to learn. Sensory processing disorders. If you remember our little mixer board from earlier, I said some people are turned way up. Some people are turned way down on different traits.
+
+[9:50] Sensory processing is really common for this. Some people experience certain senses really, really, really strongly. Some people experience them really weakly. **Some people experience some things very strongly and some things very weakly.** 
+
+![Sensory Processing Slide](./images/09-sensory-processinge.png) 
 
 [10:03] You might get a blinding headache if somebody turns on lights in the room, and you're not wearing glasses. Or, you might not feel it when somebody taps you on the shoulder. There's all these different ways of being.
 
-[10:17] I tend to include emotional challenges in this as well because I tend to think of emotions as senses that are calibrated for external state changes instead of internal ones, and so I find that if you're hypersensitive or hypersensitive at certain emotions, to me it makes sense that that will fall into this category.
+[10:17] I tend to **include emotional challenges** in this as well because I tend to think of emotions as senses that are **calibrated for external state changes instead of internal ones**, and so I find that if you're hypersensitive or hypersensitive at certain emotions, to me it makes sense that that will fall into this category.
 
-[10:36] Let's talk about OCD a little bit. This often like a punch line used in pop culture on so we'll see about this. OCD is not a joke. This is a desire to be absolutely certain about something where you feel like if you're uncertain, something bad is going to happen. You can't say why but you have to be sure.
+[10:36] Let's talk about **OCD** a little bit. This often like a punch line used in pop culture on so we'll see about this. **OCD is not a joke. This is a desire to be absolutely certain about something where you feel like if you're uncertain, something bad is going to happen.** You can't say why but you have to be sure.
 
-[10:54] It can be all-consuming. I want to take a moment and specifically call out something called Pure O OCD. They initially thought there are some people who are only obsessive. They've since understood that what's actually happening is the behavior and Pure O OCD is invisible because it's cognitive.
+![OCD Slide](./images/10-ocd-slide.png) 
 
-[11:12] Here's what Pure O OCD looks like. You think a horrible thought. Something that you don't want to be true. "Oh my God, I did this horrible thing that I know I didn't do." Then your brain is like, "Oh no," and you start talking yourself out of it.
+[10:54] It can be all-consuming. I want to take a moment and specifically call out something called Pure O OCD. They initially thought there are some people who are only obsessive. They've since understood that what's actually happening is the behavior and **Pure O OCD is invisible because it's cognitive**.
 
-[11:27] No, I know this true because I have this evidence and this and this. This is fine." Then you get this huge surge of relief and your brain's just learned, "Oh great, I can get dopamine, whatever I want just by telling you this thing you're really afraid of then you'll talk me out of it."
+[11:12] Here's what Pure O OCD looks like. You think a horrible thought. Something that you don't want to be true. *"Oh my God, I did this horrible thing that I know I didn't do."* Then your brain is like, *"Oh no,"* and you start talking yourself out of it.
 
-[11:41] I spent 15 years tracking the hell of this and it's real. The way that I got out of it was I learned that you don't have to argue with your brain. Your brain can say, "Hey, you're horrible," and you can say, "Yeah, you know what? I'm actually worse. I'm worst that horrible. I'm worst than you think I am."
+[11:27] No, I know this true because I have this evidence and this and this. *"This is fine."* Then you get this huge surge of relief and your brain's just learned, *"Oh great, I can get dopamine, whatever I want just by telling you this thing you're really afraid of then you'll talk me out of it."* 
 
-[11:55] Your brain goes, "Wait, what? All right, this isn't fun anymore." It stops. It worked for me, it's probably going to work for everybody. This stuff is so serious. It comes to thing that dominates your life.
+[11:41] I spent 15 years tracking the hell of this and it's real. The way that I got out of it was I learned that you don't have to argue with your brain. Your brain can say, *"Hey, you're horrible,"* and you can say, *"Yeah, you know what? I'm actually worse. I'm worst that horrible. I'm worst than you think I am."*
 
-[12:09] PTSD is what happens when you experience something so horrible that you can't process it. You've been assaulted or you got into a car accident, or something. Something happened that was so bad that every time you think about it, you're spiraling.
+[11:55] Your brain goes, *"Wait, what? All right, this isn't fun anymore."* It stops. It worked for me, it's probably going to work for everybody. **This stuff is so serious.** It comes to thing that dominates your life.
+
+[12:09] **PTSD is what happens when you experience something so horrible that you can't process it.** You've been assaulted or you got into a car accident, or something. Something happened that was so bad that every time you think about it, you're spiraling.
+
+![PTSD Slide](./images/11-ptsd-slide.png) 
 
 [12:24] You organize your life not to think about it. Then the longer you go, what happens is this thing that you're so afraid of becomes this whole center of your life that you're not even thinking about. You've forgotten about it, maybe.
 
